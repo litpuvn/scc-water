@@ -567,3 +567,7 @@ ul li {
 	margin: auto;
 	margin-right: 10px;
 }
+
+.tr-top {
+	vertical-align: top;
+}
