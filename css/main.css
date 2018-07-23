@@ -571,3 +571,7 @@ ul li {
 .tr-top {
 	vertical-align: top;
 }
+
+.tr-left {
+	text-align: left;
+}
