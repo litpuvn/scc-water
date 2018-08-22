@@ -1,4 +1,5 @@
 # West-Texas-Water
+This is funded by the NSF
 
 DEMO
 
