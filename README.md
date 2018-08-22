@@ -11,4 +11,4 @@ Images used in page are taken from <a href="http://voices.nationalgeographic.org
 
 
 
-LIVE PAGE CAN BE FOUND <a href="https://dsalopek.github.io/West-Texas-Water/">HERE</a>
+LIVE PAGE CAN BE FOUND <a href="https://litpuvn.github.io/scc-water">HERE</a>
