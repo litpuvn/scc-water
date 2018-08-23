@@ -121,7 +121,7 @@ ul li {
 }
 #header .header-content {
 	margin: 0 auto;
-	max-width: 1170px;
+	max-width: 1500px;
 	padding: 30px 0;
 	width: 100%;
 	-moz-transition: padding 0.3s;
@@ -168,7 +168,7 @@ ul li {
 }
 .navigation a {
 	color: rgba(255, 255, 255, 0.75);
-	font-size: 13px;
+	font-size: 15px;
 	font-weight: 700;
 	margin-left: 40px;
 	text-transform: uppercase;
@@ -582,3 +582,6 @@ ul li {
 .tr-left {
 	text-align: left;
 }
+
+.workshop-agenda tr { line-height: 25px; }
+
