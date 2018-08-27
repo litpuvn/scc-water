@@ -588,3 +588,7 @@ ul li {
 .section h2 {
 	text-decoration: underline;
 }
+
+.justify-text {
+	text-align:justify !important;
+}
